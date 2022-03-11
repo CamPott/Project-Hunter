@@ -904,7 +904,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 67
     y: 69
-    width: 76.352936
+    width: 76.34146
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -934,11 +934,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 511.03665, y: 44.748985}
+  scrollPos: {x: 550.0753, y: 57.61843}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 350
-  zoom: 0.85000014
+  zoom: 0.8200002
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -946,9 +946,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 505066033}
-  selectedCommands:
-  - {fileID: 505066086}
+  - {fileID: 505066051}
+  selectedCommands: []
   variables:
   - {fileID: 505066085}
   description: 
@@ -1240,7 +1239,7 @@ MonoBehaviour:
   text: Council Hatred
   description: 
   targetBlock: {fileID: 505066049}
-  hideIfVisited: 0
+  hideIfVisited: 1
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -1288,7 +1287,7 @@ MonoBehaviour:
 '
   description: 
   targetBlock: {fileID: 505066050}
-  hideIfVisited: 0
+  hideIfVisited: 1
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -1315,7 +1314,7 @@ MonoBehaviour:
 '
   description: 
   targetBlock: {fileID: 505066052}
-  hideIfVisited: 0
+  hideIfVisited: 1
   interactable:
     booleanRef: {fileID: 0}
     booleanVal: 1
@@ -1339,7 +1338,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 241.44916
     y: 195.32825
-    width: 225.99995
+    width: 230.48776
     height: 40
   tint: {r: 1, g: 0.8980392, b: 0, a: 1}
   useCustomTint: 1
@@ -1375,7 +1374,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 30.620056
     y: 244.41496
-    width: 144.11761
+    width: 145.60974
     height: 40
   tint: {r: 1, g: 0.8980392, b: 0, a: 1}
   useCustomTint: 1
@@ -1413,7 +1412,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 31.057096
     y: 316.97333
-    width: 143.17645
+    width: 145.60974
     height: 40
   tint: {r: 0.9622642, g: 0.684786, b: 0.23058024, a: 1}
   useCustomTint: 1
@@ -1444,7 +1443,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -218.35931
     y: 185.2007
-    width: 159.17645
+    width: 161.21948
     height: 40
   tint: {r: 1, g: 0.89719844, b: 0, a: 1}
   useCustomTint: 1
@@ -1477,9 +1476,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 4.640686
-    y: 144.2007
-    width: 195.88232
+    x: 6.9936266
+    y: 141.84776
+    width: 198.29265
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
