@@ -1287,9 +1287,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 67
-    y: 69
-    width: 76.34146
+    x: 65.73418
+    y: 66.46835
+    width: 77.34177
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1319,11 +1319,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 550.0753, y: 57.61843}
+  scrollPos: {x: 575.08295, y: 65.90802}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 350
-  zoom: 0.8200002
+  zoom: 0.7900002
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -1331,9 +1331,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 505066033}
+  - {fileID: 505066051}
   selectedCommands:
-  - {fileID: 505066038}
+  - {fileID: 505066065}
   variables:
   - {fileID: 505066085}
   description: 
@@ -1379,7 +1379,7 @@ MonoBehaviour:
 '
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1406,7 +1406,7 @@ MonoBehaviour:
   storyText: Time to prove to me and the rest of the Hunter Council that you're ready.
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1433,7 +1433,7 @@ MonoBehaviour:
   storyText: 'This is it! '
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1462,7 +1462,7 @@ MonoBehaviour:
 '
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: 9ca21b2063e64fd4b946a8ff0f0fe16f, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1489,7 +1489,7 @@ MonoBehaviour:
   storyText: You can do it...
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: 9ca21b2063e64fd4b946a8ff0f0fe16f, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1516,7 +1516,7 @@ MonoBehaviour:
   storyText: Are you not going to help me take down this monster!?
   description: 
   character: {fileID: 1545787466}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: ee579b95b2ef9934dabe5d3e74029137, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1543,7 +1543,7 @@ MonoBehaviour:
   storyText: Now its time for you to finish it.
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1570,7 +1570,7 @@ MonoBehaviour:
   storyText: 'This is your quest, it has been since the beginning. '
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1598,7 +1598,7 @@ MonoBehaviour:
     not allow you to become a Monster Hunter.
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1724,7 +1724,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 241.44916
     y: 195.32825
-    width: 230.48776
+    width: 237.34172
     height: 40
   tint: {r: 1, g: 0.8980392, b: 0, a: 1}
   useCustomTint: 1
@@ -1760,7 +1760,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 30.620056
     y: 244.41496
-    width: 145.60974
+    width: 149.24048
     height: 40
   tint: {r: 1, g: 0.8980392, b: 0, a: 1}
   useCustomTint: 1
@@ -1796,9 +1796,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 31.057096
+    x: 33.58874
     y: 316.97333
-    width: 145.60974
+    width: 149.24048
     height: 40
   tint: {r: 0.9622642, g: 0.684786, b: 0.23058024, a: 1}
   useCustomTint: 1
@@ -1829,7 +1829,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -218.35931
     y: 185.2007
-    width: 161.21948
+    width: 165.44301
     height: 40
   tint: {r: 1, g: 0.89719844, b: 0, a: 1}
   useCustomTint: 1
@@ -1864,7 +1864,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 6.9936266
     y: 141.84776
-    width: 198.29265
+    width: 203.92401
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1915,7 +1915,7 @@ MonoBehaviour:
   storyText: So why does the Council dislike me so much anyways?
   description: 
   character: {fileID: 1545787466}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: ee579b95b2ef9934dabe5d3e74029137, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1942,7 +1942,7 @@ MonoBehaviour:
   storyText: Right, I'll see you on the other side then old man.
   description: 
   character: {fileID: 1545787466}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e6beded3ccce43847986a00011820f44, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1971,7 +1971,7 @@ MonoBehaviour:
 '
   description: 
   character: {fileID: 1545787466}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: ee579b95b2ef9934dabe5d3e74029137, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2019,7 +2019,7 @@ MonoBehaviour:
   storyText: '*The Elder nods*'
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: 9ca21b2063e64fd4b946a8ff0f0fe16f, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2047,7 +2047,7 @@ MonoBehaviour:
     I get back. Incase anymore appear out of nowhere. '
   description: 
   character: {fileID: 1545787466}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: ee579b95b2ef9934dabe5d3e74029137, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2074,7 +2074,7 @@ MonoBehaviour:
   storyText: So be careful...you never know what it could do.
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2102,7 +2102,7 @@ MonoBehaviour:
     it can do now. '
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2130,7 +2130,7 @@ MonoBehaviour:
     the Medieval Times. '
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2157,7 +2157,7 @@ MonoBehaviour:
   storyText: I'm not sure. There are no records of this Snaketor.
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2183,8 +2183,8 @@ MonoBehaviour:
   indentLevel: 0
   storyText: '*The Elder huffs in agreement*'
   description: 
-  character: {fileID: 0}
-  portrait: {fileID: 0}
+  character: {fileID: 1991030756}
+  portrait: {fileID: 21300000, guid: 9ca21b2063e64fd4b946a8ff0f0fe16f, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2211,7 +2211,7 @@ MonoBehaviour:
   storyText: I will, I was taught by the best remember.
   description: 
   character: {fileID: 1545787466}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: e6beded3ccce43847986a00011820f44, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2238,7 +2238,7 @@ MonoBehaviour:
   storyText: Again be careful, we don't know what this creature can do.
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2301,7 +2301,7 @@ MonoBehaviour:
     them being human or not. '
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: 9ca21b2063e64fd4b946a8ff0f0fe16f, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2328,7 +2328,7 @@ MonoBehaviour:
   storyText: And what is your opinion?
   description: 
   character: {fileID: 1545787466}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: ee579b95b2ef9934dabe5d3e74029137, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2356,7 +2356,7 @@ MonoBehaviour:
     the council agree with you being given the chance to become a Hunter. '
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2384,7 +2384,7 @@ MonoBehaviour:
     always be only human.
   description: 
   character: {fileID: 1991030756}
-  portrait: {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  portrait: {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -5157,7 +5157,11 @@ MonoBehaviour:
   nameText: Apprentice
   nameColor: {r: 0.32766104, g: 0.33653072, b: 0.9811321, a: 1}
   soundEffect: {fileID: 0}
-  portraits: []
+  portraits:
+  - {fileID: 21300000, guid: e6beded3ccce43847986a00011820f44, type: 3}
+  - {fileID: 21300000, guid: ee579b95b2ef9934dabe5d3e74029137, type: 3}
+  - {fileID: 21300000, guid: ad0137861edb8254ab352dac950fd5ff, type: 3}
+  - {fileID: 21300000, guid: 2516c4f8bef024743b34f2e21eb18262, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
@@ -5851,7 +5855,8 @@ MonoBehaviour:
   nameColor: {r: 0.032860745, g: 0.6698113, b: 0.015165519, a: 1}
   soundEffect: {fileID: 0}
   portraits:
-  - {fileID: 21300000, guid: 578c08fb17b5e9543b99792363df531c, type: 3}
+  - {fileID: 21300000, guid: 9ca21b2063e64fd4b946a8ff0f0fe16f, type: 3}
+  - {fileID: 21300000, guid: acba977604f508c438e0a57c5f2bda9e, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 

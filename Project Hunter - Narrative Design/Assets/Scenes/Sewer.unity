@@ -417,7 +417,7 @@ MonoBehaviour:
   storyText: The body is barely recognisable
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -501,7 +501,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 72
-    width: 134
+    width: 136.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1875,7 +1875,7 @@ MonoBehaviour:
   storyText: 'Once I have done that I can meet back up with the Elder again. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 378f10a1e2b67244cb40ca9df1c6aec3, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -1919,7 +1919,7 @@ MonoBehaviour:
   storyText: 'I can''t leave yet, I must find the creature first. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -2002,8 +2002,8 @@ MonoBehaviour:
   nodeRect:
     serializedVersion: 2
     x: 64
-    y: 71
-    width: 163
+    y: 70
+    width: 166
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -2042,8 +2042,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 107107004}
+  selectedCommands:
+  - {fileID: 107106998}
   variables: []
   description: 
   stepPause: 0
@@ -3558,7 +3560,7 @@ MonoBehaviour:
   storyText: 'The needles have become rusted. Looks like they were used ages ago. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -3640,9 +3642,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 64
+    x: 65
     y: 71
-    width: 154
+    width: 157.2
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -3821,7 +3823,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 693563155}
+  selectedFlowchart: {fileID: 892673348}
 --- !u!4 &209765789
 Transform:
   m_ObjectHideFlags: 1
@@ -6745,7 +6747,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 72
-    width: 140
+    width: 142
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -6792,7 +6794,7 @@ MonoBehaviour:
   selectedBlocks:
   - {fileID: 399627238}
   selectedCommands:
-  - {fileID: 399627250}
+  - {fileID: 399627243}
   variables: []
   description: 
   stepPause: 0
@@ -6890,7 +6892,7 @@ MonoBehaviour:
   storyText: 'better give this to Elder when i meet back up with him eventually. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -6917,7 +6919,7 @@ MonoBehaviour:
   storyText: Looks like it has something linked with the same creature on the wall.
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -6945,7 +6947,7 @@ MonoBehaviour:
     onto it?
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -6972,7 +6974,7 @@ MonoBehaviour:
   storyText: What's this?
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -7439,7 +7441,7 @@ MonoBehaviour:
   storyText: 'The shelves are full of dust. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -7523,7 +7525,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 134
+    width: 136.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -8733,7 +8735,7 @@ MonoBehaviour:
     entering...or even stopping themselves from leaving. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -8817,7 +8819,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 170
+    width: 173.2
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -9976,7 +9978,7 @@ MonoBehaviour:
   storyText: The body has been ripped to pieces
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -10060,7 +10062,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 133
+    width: 135.6
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -10091,7 +10093,7 @@ MonoBehaviour:
   scrollPos: {x: 576.15497, y: 79.2979}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 453
+  blockViewHeight: 338.75
   zoom: 1
   scrollViewRect:
     serializedVersion: 2
@@ -11672,7 +11674,7 @@ MonoBehaviour:
   storyText: LET US END THIS!!!
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78723c25d2119ce4baef3d5d021bb46d, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -11726,7 +11728,7 @@ MonoBehaviour:
   storyText: ...And what you did to my girlfriend.
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -11753,7 +11755,7 @@ MonoBehaviour:
   storyText: 'You will burn in hell for what you have done. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -11781,7 +11783,7 @@ MonoBehaviour:
     you have ended and the pain you have caused.
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -11835,7 +11837,7 @@ MonoBehaviour:
   storyText: So this is where you have been hiding all this time.
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -11937,7 +11939,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 65
     y: 71
-    width: 117
+    width: 118
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -11983,7 +11985,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 658914643}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 658914632}
   variables: []
   description: 
   stepPause: 0
@@ -12633,7 +12636,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -50.769165
     y: -150.23254
-    width: 77.83505
+    width: 76.352936
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12666,11 +12669,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -30.80461, y: 13.532154}
+  scrollPos: {x: -24.323458, y: -171.99069}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 256
-  zoom: 0.97
+  zoom: 0.85000014
   scrollViewRect:
     serializedVersion: 2
     x: -343
@@ -12678,9 +12681,8 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 693563174}
-  selectedCommands:
-  - {fileID: 693563221}
+  - {fileID: 693563217}
+  selectedCommands: []
   variables:
   - {fileID: 693563183}
   - {fileID: 693563172}
@@ -12738,7 +12740,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 180.08412
     y: -16.033955
-    width: 228.35051
+    width: 217.52937
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -12919,7 +12921,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 305.00995
     y: 86.2424
-    width: 173.71133
+    width: 164.8235
     height: 40
   tint: {r: 1, g: 0.390566, b: 0.390566, a: 1}
   useCustomTint: 1
@@ -12948,7 +12950,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -55.550907
     y: 80.72415
-    width: 197.42267
+    width: 186.47055
     height: 40
   tint: {r: 1, g: 0.390566, b: 0.390566, a: 1}
   useCustomTint: 1
@@ -13052,7 +13054,7 @@ MonoBehaviour:
   storyText: I could of done something...I could of tried to fight it at least...
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fe3c7356c4bed364fa8690db16781185, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13078,7 +13080,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 275.9821
     y: 165.5574
-    width: 233.50514
+    width: 218.47055
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13143,7 +13145,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 919.9479
     y: 61.74978
-    width: 108.762886
+    width: 105.5294
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13224,7 +13226,7 @@ MonoBehaviour:
   storyText: I will, make sure that creature pays and suffers the consequences
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13273,7 +13275,7 @@ MonoBehaviour:
     closed my eyes and waited for the screams and the crunching of the bones to stop.
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13301,7 +13303,7 @@ MonoBehaviour:
     immediately began to rip and tear through everyone that stood in its way. '
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: fe3c7356c4bed364fa8690db16781185, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13328,7 +13330,7 @@ MonoBehaviour:
   storyText: ...It didn't even hesitate...
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13354,7 +13356,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 134.10269
     y: 164.93344
-    width: 101.54639
+    width: 97.999985
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13421,7 +13423,7 @@ MonoBehaviour:
     could be?
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13448,7 +13450,7 @@ MonoBehaviour:
   storyText: How were you able to survive this slaughter?
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13475,7 +13477,7 @@ MonoBehaviour:
   storyText: That creature was able to do all of this!?
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13502,7 +13504,7 @@ MonoBehaviour:
   storyText: Are you alright? Are you hurt?
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13529,7 +13531,7 @@ MonoBehaviour:
   storyText: ...Teared my friends apart like a ravenous dog...
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13556,7 +13558,7 @@ MonoBehaviour:
   storyText: ...It just came out of nowhere...
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13583,7 +13585,7 @@ MonoBehaviour:
   storyText: The Monster? Where did it go?
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13638,7 +13640,7 @@ MonoBehaviour:
   storyText: ...It...
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13664,7 +13666,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 523.2574
     y: 226.44402
-    width: 84.020615
+    width: 81.99999
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13695,7 +13697,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 664.6608
     y: 325.22464
-    width: 215.97937
+    width: 201.52937
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -13777,7 +13779,7 @@ MonoBehaviour:
   storyText: Yea you could of done something, but instead you hid like a coward.
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 78723c25d2119ce4baef3d5d021bb46d, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13825,7 +13827,7 @@ MonoBehaviour:
   storyText: Your lucky to even still be alive.
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13853,7 +13855,7 @@ MonoBehaviour:
     you would of just ended up like the rest of your friends. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13881,7 +13883,7 @@ MonoBehaviour:
     to the surface now. Things are going to get pretty dangerous down here in a minute. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 378f10a1e2b67244cb40ca9df1c6aec3, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13909,7 +13911,7 @@ MonoBehaviour:
     rubble stuck in its scales. So it could of dug out an area to call it home. '
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13937,7 +13939,7 @@ MonoBehaviour:
     else
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 378f10a1e2b67244cb40ca9df1c6aec3, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -13963,7 +13965,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 733.3202
     y: 189.79858
-    width: 100.51546
+    width: 97.05881
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14047,7 +14049,7 @@ MonoBehaviour:
   storyText: Wait a minute...Are you a Hunter!?
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14074,7 +14076,7 @@ MonoBehaviour:
   storyText: Why are you going to kill it?
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14100,7 +14102,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 699.1746
     y: 61.749794
-    width: 144.84537
+    width: 137.52939
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14153,7 +14155,7 @@ MonoBehaviour:
     here
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 378f10a1e2b67244cb40ca9df1c6aec3, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14182,7 +14184,7 @@ MonoBehaviour:
     home. '
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14210,7 +14212,7 @@ MonoBehaviour:
     to take that thing on.
   description: 
   character: {fileID: 1045954721}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14238,7 +14240,7 @@ MonoBehaviour:
     to be part of the order
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -14289,7 +14291,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 717.81604
     y: 423.12976
-    width: 108.762886
+    width: 105.5294
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -14494,7 +14496,7 @@ MonoBehaviour:
   callMode: 0
 --- !u!114 &693563221
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14520,7 +14522,7 @@ MonoBehaviour:
     floatVal: 0
 --- !u!114 &693563222
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -14546,7 +14548,7 @@ MonoBehaviour:
     floatVal: 0
 --- !u!114 &693563223
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -15289,7 +15291,7 @@ MonoBehaviour:
   storyText: It looks like the worker was trying to crawl away, but it was too late
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -15373,7 +15375,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 133
+    width: 135.6
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18331,7 +18333,7 @@ MonoBehaviour:
   storyText: 'Time to meet back up with the Elder and show him what I have found. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -18417,7 +18419,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 157
+    width: 160.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -18458,8 +18460,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 892673347}
+  selectedCommands:
+  - {fileID: 892673351}
   variables: []
   description: 
   stepPause: 0
@@ -18523,7 +18527,7 @@ MonoBehaviour:
     a true Hunter and be accepted by the Council. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 378f10a1e2b67244cb40ca9df1c6aec3, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -19052,7 +19056,7 @@ MonoBehaviour:
   storyText: 'Nothing to see on this shelf. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -19136,7 +19140,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 134
+    width: 136.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20501,7 +20505,7 @@ MonoBehaviour:
     a while.
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -20585,7 +20589,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 153
+    width: 156.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -20616,7 +20620,7 @@ MonoBehaviour:
   scrollPos: {x: 576.15497, y: 79.2979}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 453
+  blockViewHeight: 338.75
   zoom: 1
   scrollViewRect:
     serializedVersion: 2
@@ -22215,7 +22219,7 @@ MonoBehaviour:
   storyText: 'It''s broken and looks like it hasn''t been used for a while. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -22299,7 +22303,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 149
+    width: 151.6
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -22598,7 +22602,9 @@ MonoBehaviour:
   nameText: Construction Worker
   nameColor: {r: 1, g: 0.7988725, b: 0.069811285, a: 1}
   soundEffect: {fileID: 0}
-  portraits: []
+  portraits:
+  - {fileID: 21300000, guid: fe3c7356c4bed364fa8690db16781185, type: 3}
+  - {fileID: 21300000, guid: 4165d2093f996dc4f9493a9382a87d94, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
@@ -23353,7 +23359,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 54.84503
     y: 169.7021
-    width: 168
+    width: 164.63916
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23381,7 +23387,7 @@ MonoBehaviour:
   storyText: Looks like whoever has been living here has turned off the power.
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -23465,7 +23471,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 150
+    width: 147.31958
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -23492,19 +23498,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 569.15497, y: 94.2979}
+  scrollPos: {x: 520.4847, y: 4.369978}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 453
-  zoom: 1
+  blockViewHeight: 338.75
+  zoom: 0.97
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1089260338}
+  selectedCommands:
+  - {fileID: 1089260333}
   variables:
   - {fileID: 1089260334}
   description: 
@@ -23535,7 +23543,7 @@ MonoBehaviour:
     is now open and then meet back up with the Elder. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -23770,7 +23778,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 68.84503
     y: 265.7021
-    width: 142
+    width: 139.8969
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27112,7 +27120,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 70
-    width: 121
+    width: 122.8
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -27157,8 +27165,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1263127763}
+  selectedCommands:
+  - {fileID: 1263127765}
   variables: []
   description: 
   stepPause: 0
@@ -27188,7 +27198,7 @@ MonoBehaviour:
     he might know something about the drug dealer. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -27215,7 +27225,7 @@ MonoBehaviour:
   storyText: 'Jesus. poor dude. Whoever thought that creature was once human. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -27467,7 +27477,7 @@ MonoBehaviour:
   storyText: Looks like someone has been sleeping here, but who? And why here?
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -27551,7 +27561,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 116
+    width: 118
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -31139,7 +31149,7 @@ MonoBehaviour:
 '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -31223,7 +31233,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 63
     y: 72
-    width: 155
+    width: 158
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -31910,7 +31920,7 @@ MonoBehaviour:
     take it with me and research it with the Elder when we get back. '
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -31994,7 +32004,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 155
+    width: 158
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32033,8 +32043,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1546580471}
+  selectedCommands:
+  - {fileID: 1546580467}
   variables: []
   description: 
   stepPause: 0
@@ -32368,7 +32380,7 @@ MonoBehaviour:
   storyText: Did the creature do this!?
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -32452,7 +32464,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 63
     y: 72
-    width: 132
+    width: 134.8
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -32491,8 +32503,10 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
-  selectedCommands: []
+  selectedBlocks:
+  - {fileID: 1576756642}
+  selectedCommands:
+  - {fileID: 1576756638}
   variables: []
   description: 
   stepPause: 0
@@ -35177,7 +35191,7 @@ MonoBehaviour:
     from?
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -35261,7 +35275,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 154
+    width: 157.2
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -38211,7 +38225,11 @@ MonoBehaviour:
   nameText: Apprentice
   nameColor: {r: 0.32766104, g: 0.33653072, b: 0.9811321, a: 1}
   soundEffect: {fileID: 0}
-  portraits: []
+  portraits:
+  - {fileID: 21300000, guid: 78723c25d2119ce4baef3d5d021bb46d, type: 3}
+  - {fileID: 21300000, guid: 378f10a1e2b67244cb40ca9df1c6aec3, type: 3}
+  - {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
+  - {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   portraitsFace: 0
   setSayDialog: {fileID: 0}
   description: 
@@ -41588,7 +41606,7 @@ MonoBehaviour:
   storyText: There is nothing much of the body left
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 8ad61929a9ed4ac489b08da30e6a2bcb, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -41672,7 +41690,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 63
     y: 71
-    width: 134
+    width: 136.4
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -42526,7 +42544,7 @@ MonoBehaviour:
   storyText: The shelf is empty.
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -42610,7 +42628,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 132
+    width: 134.8
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -42650,7 +42668,8 @@ MonoBehaviour:
     height: 859
   selectedBlocks:
   - {fileID: 2124512783}
-  selectedCommands: []
+  selectedCommands:
+  - {fileID: 2124512779}
   variables: []
   description: 
   stepPause: 0
@@ -43071,7 +43090,7 @@ MonoBehaviour:
   storyText: Nothing has been put on these shelves for ages.
   description: 
   character: {fileID: 1907968071}
-  portrait: {fileID: 0}
+  portrait: {fileID: 21300000, guid: 732fd2a722b28394d96611fa4b6b0f36, type: 3}
   voiceOverClip: {fileID: 0}
   showAlways: 1
   showCount: 1
@@ -43155,7 +43174,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 64
     y: 71
-    width: 133
+    width: 135.6
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
